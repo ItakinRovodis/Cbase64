@@ -1,0 +1,3 @@
+/home/nikita/CLionProjects/Cbase64/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/CLionProjects/Cbase64/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/CLionProjects/Cbase64/cmake-build-debug/CMakeFiles/Cbase64.dir
